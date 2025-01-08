@@ -1,4 +1,4 @@
-package live_coding.kapitel3_arrays;
+package live_coding.kapitel3_weiterfuehrendeThemen;
 
 public class Arrays_1 {
     public static void main(String[] args) {
