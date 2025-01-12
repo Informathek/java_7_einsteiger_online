@@ -41,7 +41,5 @@ public class Arrays_2 {
 //        int[] arr_int = {5, 35, 3, 8, 6};
 //        double[] arr_double = {5.7, 353.2, 3.6, 8.2, 6};
 //        String[] arr_string = {"hello", "World"};
-
-
     }
 }
