@@ -1,4 +1,4 @@
-package resources.kapitel3_arrays;
+package resources.kapitel3_weiterfuehrendeThemen;
 
 public class Arrays_1 {
     public static void main(String[] args) {
